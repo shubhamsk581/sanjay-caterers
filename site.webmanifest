@@ -1,0 +1,14 @@
+{
+  "name": "Sanjay Caterers",
+  "short_name": "Sanjay Caterers",
+  "description": "Pune's most trusted wedding & event caterers for 30+ years.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4E0E0E",
+  "theme_color": "#4E0E0E",
+  "icons": [
+    { "src": "favicon-32x32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
